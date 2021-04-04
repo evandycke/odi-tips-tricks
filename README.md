@@ -4,7 +4,7 @@ Some Tips and Tricks about ODI.
 
 [![forthebadge](https://forthebadge.com/images/badges/contains-technical-debt.svg)](http://forthebadge.com)  [![forthebadge](https://forthebadge.com/images/badges/check-it-out.svg)](http://forthebadge.com)  [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](http://forthebadge.com)
 
-![Oracle Data Integrator](./images/odi-logo-256.png)
+![Oracle Data Integrator](./images/odi-logo-128.png)
 
 ## Useful scripts
 
