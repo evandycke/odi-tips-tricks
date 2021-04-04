@@ -22,7 +22,11 @@ Some Tips and Tricks about ODI.
 
 ## Useful links
 
-...
+* [Help Center Oracle Data Integrator](https://docs.oracle.com/en/middleware/fusion-middleware/data-integrator/index.html)
+
+## Tomorrow I will learn about ODI
+
+* [A blog about ODI](https://www.clearpeaks.com/?s=odi)
 
 ## Build with
 
