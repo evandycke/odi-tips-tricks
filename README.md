@@ -2,7 +2,7 @@
 
 Some Tips and Tricks about ODI.
 
-[![forthebadge](https://forthebadge.com/images/badges/contains-technical-debt.svg)](http://forthebadge.com)  [![forthebadge](https://forthebadge.com/images/badges/check-it-out.svg)](http://forthebadge.com)  [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](http://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/you-didnt-ask-for-this.svg)](http://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/contains-technical-debt.svg)](http://forthebadge.com)  [![forthebadge](https://forthebadge.com/images/badges/check-it-out.svg)](http://forthebadge.com)  [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](http://forthebadge.com)
 
 ![Oracle Data Integrator](./images/odi-logo-128.png)
 
@@ -20,21 +20,17 @@ Some Tips and Tricks about ODI.
 * Retrieve the list of tables in ODI
 * Show the actual target mappings of the interfaces
 
-## Useful links
+## Useful link
 
 * [Help Center Oracle Data Integrator](https://docs.oracle.com/en/middleware/fusion-middleware/data-integrator/index.html)
 
-## Tomorrow I will learn about ODI
+## Tomorrow I will learn
 
 * [A blog about ODI](https://www.clearpeaks.com/?s=odi)
 
 ## Build with
 
 * [Git](https://git-scm.com) - Open source distributed version control system
-
-## Getting started with ...
-
-...
 
 ## Contributing
 
