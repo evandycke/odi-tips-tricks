@@ -8,25 +8,27 @@ Some Tips and Tricks about ODI.
 
 ## Useful scripts
 
-* Retrieve the last session per scenario
-* Analyze the KM used in the interfaces
-* Check the properties of the table columns
-* Compare the last modification dates of the objects
-* Data lineage
-* Key and check not null option on target columns
-* List of models, sub-models and tables with the corresponding parent folders and last userdate details
-* Retrieve the list of interfaces in ODI
-* Retrieve the list of scenarios in ODI
-* Retrieve the list of tables in ODI
-* Show the actual target mappings of the interfaces
+* [Retrieve the last session per scenario](./scripts/retrieve-last-session-per-scenario.sql)
+* [Analyze the KM used in the interfaces](./scripts/analyze-km.sql)
+* [Check the properties of the table columns](./scripts/check-properties-of-columns.sql)
+* [Compare the last modification dates of the objects](./scripts/compare-last-modification-date.sql)
+* [Data lineage](./scripts/data-lineage.sql)
+* [Key and check not null option on target columns](./scripts/key-and-cnn-option-on-target-columns.sql)
+* [List of models, sub-models and tables with the corresponding parent folders and last userdate details](./scripts/list-models.sql)
+* [Retrieve the list of interfaces in ODI](./scripts/retrieve-interfaces.sql)
+* [Retrieve the list of scenarios in ODI](./scripts/retrieve-scenarios.sql)
+* [Retrieve the list of tables in ODI](./scripts/retrieve-tables.sql)
+* [Show the actual target mappings of the interfaces](./scripts/show-actual-target-mappings.sql)
+* [Introspection](./scripts/introspection.sql)
 
 ## Useful link
 
 * [Help Center Oracle Data Integrator](https://docs.oracle.com/en/middleware/fusion-middleware/data-integrator/index.html)
+* [A blog about ODI](https://www.clearpeaks.com/?s=odi)
 
 ## Tomorrow I will learn
 
-* [A blog about ODI](https://www.clearpeaks.com/?s=odi)
+Resources to study
 
 ## Build with
 
